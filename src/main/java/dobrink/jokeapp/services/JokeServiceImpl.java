@@ -1,6 +1,6 @@
 package dobrink.jokeapp.services;
 
-import guru.springframework.norris.chuck.ChuckNorrisQuotes;
+import dobrink.jokeapp.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
 
 @Service
